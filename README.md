@@ -12,6 +12,9 @@
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+Capitulo 13
+
+
 1.-
 
 ![image](https://user-images.githubusercontent.com/93899720/153545571-31cb1102-2ad3-449e-835b-707701ae51b3.png)
@@ -102,6 +105,78 @@
 
 
 35.-
+
+
+Capitulo 14
+
+
+1.-
+
+![image](https://user-images.githubusercontent.com/93899720/153546392-3a8fadf5-8d9b-4486-b240-a0f3e57d969b.png)
+
+
+
+3.-
+
+5.-
+
+![image](https://user-images.githubusercontent.com/93899720/153546440-7999a905-ae7f-4f9e-b01d-0cb98be57fd4.png)
+![image](https://user-images.githubusercontent.com/93899720/153546461-817f06ec-ac58-4131-baec-3bb534fb40dd.png)
+![image](https://user-images.githubusercontent.com/93899720/153546469-a43de01c-3983-4f91-a9d0-f4e1c3faacf6.png)
+
+
+
+7.-
+
+9.-
+
+![image](https://user-images.githubusercontent.com/93899720/153546485-3e30f1e0-2b32-4aed-abfb-1c15e3f5a784.png)
+
+
+11.-
+
+13.-
+
+![image](https://user-images.githubusercontent.com/93899720/153546509-58c0ccf8-6093-4a57-a5a9-7e57108e9303.png)
+![image](https://user-images.githubusercontent.com/93899720/153546528-994da8a3-fd87-4a40-addc-f8c5f387a143.png)
+
+
+15.-
+
+17.-
+
+![image](https://user-images.githubusercontent.com/93899720/153546542-34421f3b-fd98-4b20-877c-0eb6fcfd66c2.png)
+
+
+19.-
+
+21.-
+
+![image](https://user-images.githubusercontent.com/93899720/153546564-fa16a527-c12e-4a90-a760-c3cc441c85f2.png)
+
+
+23.-
+
+25.-
+
+![image](https://user-images.githubusercontent.com/93899720/153546584-5b949e75-8a61-44f7-bfef-1aed21835c71.png)
+
+
+27.-
+
+29.-
+
+![image](https://user-images.githubusercontent.com/93899720/153546604-bdd6bd5d-5e26-45c9-8c52-91730626333d.png)
+![image](https://user-images.githubusercontent.com/93899720/153546621-a161b4a5-22b5-4985-aa0e-f0a4030c7a68.png)
+
+
+31.-
+
+33.-
+
+![image](https://user-images.githubusercontent.com/93899720/153546640-c0c7465c-6353-4f5a-894a-32b30d866739.png)
+
+
 
 4. VIDEO
 
