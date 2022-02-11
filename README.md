@@ -5,6 +5,7 @@
 
 Objetivo general:
 -	Describir el funcionamiento de un transformador y de un inductor con el uso de campos electromagnéticos producidos por corriente. 
+
 Objetivos específicos:
 -	Analizar la propiedad de inductancia entre corriente, frecuencia y tiempo del componente eléctrico (Inductor) 
 -	Describir el funcionamiento de los transformadores mediante el uso de la propiedad de inductancia mutua 
