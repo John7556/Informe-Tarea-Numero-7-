@@ -181,8 +181,7 @@ Capitulo 14
 31.-
 
 ![image](https://user-images.githubusercontent.com/93899720/153595367-3499afb7-c8dd-4f14-862f-2ba04b920235.png)
-![image](https://user-images.githubusercontent.com/93899720/153595410-6f9f499a-5bf8-4769-816e-24ecf3f7536f.png)
-
+![image](https://user-images.githubusercontent.com/93899720/153595712-6ec297af-f51b-4055-a58b-e44a740578ff.png)
 
 33.-
 
