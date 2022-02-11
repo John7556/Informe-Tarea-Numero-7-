@@ -3,13 +3,6 @@
 
 1. OBJETIVOS
 
-Objetivo general:
--	Describir el funcionamiento de un transformador y de un inductor con el uso de campos electromagnéticos producidos por corriente. 
-
-Objetivos específicos:
--	Analizar la propiedad de inductancia entre corriente, frecuencia y tiempo del componente eléctrico (Inductor) 
--	Describir el funcionamiento de los transformadores mediante el uso de la propiedad de inductancia mutua 
-
 
 2. MARCO TEÓRICO (RESUMEN)
 
@@ -21,71 +14,92 @@ Objetivos específicos:
 
 1.-
 
-2.-
+![image](https://user-images.githubusercontent.com/93899720/153545571-31cb1102-2ad3-449e-835b-707701ae51b3.png)
+
 
 3.-
 
-4.-
+
 
 5.-
 
-6.-
+![image](https://user-images.githubusercontent.com/93899720/153545600-7753e7a0-f3e4-4663-a54a-d421ed94e836.png)
+
 
 7.-
 
-8.-
 
 9.-
 
-10.-
+![image](https://user-images.githubusercontent.com/93899720/153545674-bb39761a-bf31-4311-a9b2-70962023f657.png)
+![image](https://user-images.githubusercontent.com/93899720/153545688-d097c48a-6b56-4f62-a28c-d8cf0732bea8.png)
+
+
 
 11.-
 
-12.-
 
 13.-
 
-14.-
+![image](https://user-images.githubusercontent.com/93899720/153545715-9df3292b-e9dd-4ad7-9020-da1bcec8c1a3.png)
+
+
 
 15.-
 
-16.-
+
 
 17.-
 
-18.-
+![image](https://user-images.githubusercontent.com/93899720/153545729-e4d2c64c-5643-4dd4-ae52-a521893bb044.png)
+![image](https://user-images.githubusercontent.com/93899720/153545747-5dcb04f4-0202-475f-8309-1c4e4dc1a033.png)
+
 
 19.-
 
-20.-
+
 
 21.-
 
-22.-
+![image](https://user-images.githubusercontent.com/93899720/153545769-cf33c56f-a834-46c1-855a-a1ba63cd25ce.png)
+![image](https://user-images.githubusercontent.com/93899720/153545787-e05ba75c-c93a-452d-8cb5-68c2f5db899c.png)
+![image](https://user-images.githubusercontent.com/93899720/153545800-7a43d5d0-574c-44d7-9dff-ed2cc60d8637.png)
+
 
 23.-
 
-24.-
+
 
 25.-
 
-26.-
+![image](https://user-images.githubusercontent.com/93899720/153545827-bbc338d3-464e-403f-9b19-c9fee5c33ee3.png)
+
 
 27.-
 
-28.-
+
 
 29.-
 
-30.-
+![image](https://user-images.githubusercontent.com/93899720/153545843-eced6df7-63db-4fd7-bc9f-065dbe3689e8.png)
+![image](https://user-images.githubusercontent.com/93899720/153545858-3f8270aa-8ac4-492d-9055-8f979715f564.png)
+![image](https://user-images.githubusercontent.com/93899720/153545870-b6c32717-cfc1-498c-8880-cd27e1056496.png)
+
 
 31.-
 
-32.-
+
+
 
 33.-
 
-34.-
+![image](https://user-images.githubusercontent.com/93899720/153545897-10263e5d-532e-4476-a6dc-fbcfb86c4058.png)
+![image](https://user-images.githubusercontent.com/93899720/153545911-f6c2b7b7-e233-4797-8401-48fba0441329.png)
+![image](https://user-images.githubusercontent.com/93899720/153545950-5b5e69dd-a5be-4de0-9399-cd8d2d99f6c8.png)
+![image](https://user-images.githubusercontent.com/93899720/153545970-00101cd7-be8b-42fa-ae6e-2461f2dca97d.png)
+![image](https://user-images.githubusercontent.com/93899720/153545986-2d5dc5ce-3c2b-45c9-8bee-f3de1edd9e0a.png)
+![image](https://user-images.githubusercontent.com/93899720/153546001-2c712343-fc1a-4acb-8689-970092cd1f5d.png)
+
 
 35.-
 
@@ -94,14 +108,6 @@ Objetivos específicos:
 
 5. CONCLUSIONES
 
--	El inductor es una bobina de alambre, su funcionalidad se debe al principio de inducción electromagnética resumiéndolo en la propiedad de Inductancia siendo una bobina de alambre que se opone a un cambio de corriente, este componente eléctrico se llama inductor.
--	La operación del transformador se basa en el principio de inductancia mutua, esta ocurre si dos o más bobinas están muy cercanas una de otra. Un transformador simple se compone de dos bobinas que están acopladas de manera electromagnética por su inductancia mutua.
-
 
 6. BIBLIOGRAFÍA
-
--	Principios de circuitos eléctricos. (2021). [Ebook] (8th ed.). (2021). Retrieved 06 January 2021, from http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a03-Potencia.pdf
--	Villavicencio, J., 2022. Inductor y capacitor. [online] Available at: <https://miro.com/app/board/o9J_ljqY8f0=/> [Accessed 8 February 2022].
--	Mecatrónica LATAM. 2022. Inductor. [online] Available at: <https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/inductor/> [Accessed 8 February 2022].
--	Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.). Naucalpan de Juárez: Pearson Educación.
 
